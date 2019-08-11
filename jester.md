@@ -1,6 +1,12 @@
 # Jester
 
-![Jesters true from][jesterChim.png]
+<img src="jesterChim.png" alt="jesterChim">
+
+<div class="audio">
+   <audio controls autoplay>
+      <source src="morrowindAlternate.mp3" type="audio/mp3"/>
+   </audio>
+</div>
 
 ## Background
 
