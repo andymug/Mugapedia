@@ -1,4 +1,4 @@
-![logo][https://andymug.github.com/Mugapedia/mugWikiLogo.png]
+![logo][https://raw.githubusercontent.com/andymug/Mugapedia/master/mugWikiLogo.png]
 
 ## What is the Mug?
 
