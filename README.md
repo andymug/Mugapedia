@@ -1,8 +1,4 @@
-![logo][https://raw.githubusercontent.com/andymug/Mugapedia/master/mugWikiLogo.png]
-
-![logo][https://raw.githubusercontent.com/andymug/Mugapedia/master/mugWikiLogo.PNG]
-
-![logo][mugWikiLogo.PNG]
+<img src="mugWikiLogo.png" alt="mugWikiLogo">
 
 ## What is the Mug?
 
@@ -11,7 +7,6 @@ The Mug is an online community of internet friends who love everything about Bli
 ***
 
 ## Internet friends
-
 
 **[Aunthor](aunthor.md)**
 
