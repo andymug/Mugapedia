@@ -1,9 +1,4 @@
-![logo][mugWikiLogo.png]
-
-## Welcome to the Mugapedia
-
-This is an online encyclopedia for information on the Mug.
-
+![logo][https://andymug.github.com/Mugapedia/mugWikiLogo.png]
 
 ## What is the Mug?
 
