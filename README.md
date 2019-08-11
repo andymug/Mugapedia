@@ -1,3 +1,5 @@
+![logo][mugWikiLogo.png]
+
 ## Welcome to the Mugapedia
 
 This is an online encyclopedia for information on the Mug.
@@ -10,6 +12,7 @@ The Mug is an online community of internet friends who love everything about Bli
 ***
 
 ## Internet friends
+
 
 **[Aunthor](aunthor.md)**
 
