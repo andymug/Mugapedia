@@ -31,3 +31,4 @@ morrowind morrowind morrowind morrowind morrowind morrowind morrowind morrowind 
 
 - Anything Blizzard has done except Starcraft 2
 - Anything Elder Scrolls except Morrowind
+- Playing Dota
