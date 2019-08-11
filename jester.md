@@ -26,9 +26,11 @@ morrowind morrowind morrowind morrowind morrowind morrowind morrowind morrowind 
 - CHIM
 - Starcraft 2
 - Asking if people want to play Dota
+- Pronouncing call wrong
 
 ## Dislikes
 
 - Anything Blizzard has done except Starcraft 2
 - Anything Elder Scrolls except Morrowind
 - Playing Dota
+- Pronouncing call right
