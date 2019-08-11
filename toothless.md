@@ -2,6 +2,12 @@
 
 <img src="Gnome.png" alt="Gnome">
 
+<div class="audio">
+   <audio controls autoplay>
+      <source src="gnomeSound.mp3" type="audio/mp3"/>
+   </audio>
+</div>
+
 ## Background
 
 Toothless posts the best memes in the Discord.
