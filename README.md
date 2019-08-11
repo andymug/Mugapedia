@@ -11,7 +11,9 @@ The Mug is an online community of internet friends who love everything about Bli
 
 ## Internet friends
 
-**Aunthor**
+**[Aunthor](aunthor.md)**
 
-**Jester**
+**[Jester](jester.md)**
+
+**[Toothless](toothless.md)**
 
